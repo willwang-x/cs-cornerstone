@@ -25,31 +25,31 @@
 	
 ## List (19)
 
-### 程序设计                                     
+### Design / 程序设计                                     
 
 * [ ] 01. [Basics](https://github.com/willwang-x/cs-core-skills) / 基础理论
 * [ ] 02. [Programming Language](https://github.com/willwang-x/coder-arms) / 编程语言 
 * [ ] 03. Theory behind programming language / 编程语言理论  
 * [ ] 04. Design Programs / **程序设计** : 如何正确地写“好程序”？
-* [ ] 05. [Algorithms and Data Structure](Algorithms and Data Structure) / 算法与数据结构  
+* [ ] 05. [Algorithms and Data Structure](https://github.com/willwang-x/algorithms-with-illustrations) / 算法与数据结构  
 * [ ] 06. Program	Debugging / 程序调试
 
-### 软件开发                                                    
+### Development / 软件开发                                                    
 
 * [ ] 07. The Practice of Programming / 编程实践  
-* [ ] 08. Object Oriented Design / 面向对象程序设计 
-* [ ] 09. Refactoring / **重构**: 在保持代码行为的基础上，提升代码的质量。
-* [ ] 10. Testing / **软件测试**
+* [ ] 08. **Object Oriented Design** / 面向对象程序设计 
+* [ ] 09. Refactoring / 重构: 在保持代码行为的基础上，提升代码的质量。
+* [ ] 10. **Testing** / 软件测试
 * [ ] 11. Project Management / 项目管理 
 * [ ] 12. Professional Development / 专业开发 
-* [ ] 13. Masters / **大师之言**: 与行业里最牛的几位谈谈心
+* [ ] 13. Masters / 大师之言: 与行业里最牛的几位谈谈心
 * [ ] 14. UI Design / 界面设计
 * [ ] 15. Interactive Design / 交互设计 
 
 
-### 个人成长 
+### Growth / 个人成长 
                
 * [ ] 16. Career Planning / 职业**规划**   
 * [ ] 17. Way of Thinking / 思维方式 
 * [ ] 18. **Interview** / **求职面试**
-* [ ] 19. **Writing** / **英语**写作
+* [ ] 19. **English Writing** / 英语写作
