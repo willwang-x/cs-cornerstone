@@ -8,6 +8,6 @@
 * Michael Feathers: *Working Effectively with Legacy Code(1e,2004)*: 一本讲解如何编写测试的书? 实用！
 * Joshua Kerievsky: *Refactoring to Patterns (1e,2004)*: 27种重构方式，避免过早优化！
 
-## 文章
+## Articles
 
 - [Refactoring: When and Why](https://medium.com/@audi17.2/refactoring-when-and-why-b5262ae92fcb) : 一个修改的例子
