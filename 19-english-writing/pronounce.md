@@ -108,4 +108,8 @@
 * [Forvo](https://forvo.com/): 母语使用者真人发音的世界上最大的发音词典。
 * [Rachel’s English](https://rachelsenglish.com/): 单个音素、音素对比、连读、略读、入读、节奏、语调等等。
 * [KK, DJ, IPA](https://i.imgur.com/dgSqVyA.png)
+* anki decks
+	* [English Phonology and Phonetics](https://ankiweb.net/shared/info/3166970026) : Made for the Phonetics course "Introduction to English Phonology and Phonetics" at the University of Heidelberg, Germany. It covers most of the theory part.
+	* [The 42 Sounds of American English | IPA Flash Deck](https://ankiweb.net/shared/info/2145214821): Use this deck to study and learn the IPA for the sounds of American English speech. This deck will be continually updated.
+	* [国际音标（简化版)](https://ankiweb.net/shared/info/688447492): 介绍并强化学生对国际音标的理解与认识。This deck introduces and trains student's ability to recognize and produce accurate English IPA sounds.
 
