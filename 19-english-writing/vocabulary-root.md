@@ -25,7 +25,10 @@
 - **"研"中「石」**: 自由词根(Free Root)，如 friend，white，wash等；
 - **"情"中「忄」**: 粘附词根(Bound Root)，如 vis，manu，lect等
 
-**英语的来源：**
+
+### **英语的来源：**
+
+- [List of Greek and Latin roots in English](https://www.wikiwand.com/en/List_of_Greek_and_Latin_roots_in_English)
 
 source: [wiki](https://www.wikiwand.com/en/English_language#/Word_origins)
 
