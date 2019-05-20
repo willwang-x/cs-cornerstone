@@ -94,6 +94,7 @@ More: [behind-the-behavioral](https://workflowy.com/s/behind-the-behaviora/GSHfY
 ### solution 
 
 - [How to Deal with Difficult People on Software Projects](https://neilonsoftware.com/books/personality-patterns-of-problematic-projects/)
+- [Rock the Behavioral Interview](https://leetcode.com/explore/interview/card/leapai/)
 
 ### stories
 
