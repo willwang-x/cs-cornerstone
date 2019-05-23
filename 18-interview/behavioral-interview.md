@@ -66,7 +66,7 @@ More: [behind-the-behavioral](https://workflowy.com/s/behind-the-behaviora/GSHfY
 
 **SITUATION/TASK** - Describe the situation/task you faced and the context of the story
 
-* Answers the questions: where did this occur, when did it happen, why is it important?
+* Answers the questions: **where** did this occur, **when** did it happen, **why** is it important?
 * Probing Questions:
 	* · Why is this important? What was the goal?
 	* · What was the initial scope of the project? What were the challenges?
@@ -102,18 +102,19 @@ More: [behind-the-behavioral](https://workflowy.com/s/behind-the-behaviora/GSHfY
 	* · You mentioned revenue, what percentage change is that year over year?
 	* · What trade-offs did you have to make to achieve this? (quality, cost, time)
 	* · I’m concerned about… (The time it took, the volume, the customer impact), tell me more…
-* Challenge Questions:
+* **Challenge Questions**:
 	* · What were the lessons learned? What would you have done differently?
 	* · How would you improve the process or result today?
 	* · How would you implement this at Amazon?
 	* · How did these results compare to your actual goals? (refer back to goal stated in Situation)
 
 
-- Mention **"STAR"** key words to help your interviwer **follow** your topic:
-	- The situation is...
-	- Our task is ...
-	- Actions **I** took ...
-	- Results **I** got ...  
+Mention **"STAR"** key words to help your interviwer **follow** your topic:
+
+- The situation is...
+- Our task is ...
+- Actions **I** took ...
+- Results **I** got ...  
 	
 ### how to tell a good example?
 
