@@ -55,6 +55,11 @@
 * [YouGlish](https://youglish.com/): Use YouTube to improve your English pronunciation. With more than 30M tracks, YouGlish gives you fast, unbiased answers about how English is spoken by real people and in context.
 
 
+翻译：
+
+* [linguee](https://www.linguee.com/): English Dictionary and Translation Search with 1000000000 example sentences from **human translators**
+ 
+
 记忆：
 
 * [单词助记法](http://www.mnemonicdictionary.com/): 单词助记法网站
