@@ -63,6 +63,7 @@ More: [behind-the-behavioral](https://workflowy.com/s/behind-the-behaviora/GSHfY
 	* **Action Taken**: Describe the actions you took to address the situation with an appropriate amount of detail, and keep the focus on ****you****. What specific ****steps**** did you take? What was your particular contribution? Be careful that you don’t describe what the team or group did when talking about a project. Let us know what you actually did. Use the word “**I**,” not “we,” when describing actions.
 	* **Results or Outcome**: Describe the outcome of your actions and don’t be shy about ****taking credit for your behavior****. What happened? How did the event ****end****? What did you ****accomplish****? What did you ****learn****? Provide examples using ****metrics or data**** if applicable.
 
+source: Amazon HR
 
 **SITUATION/TASK** - Describe the situation/task you faced and the context of the story
 
