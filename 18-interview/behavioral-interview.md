@@ -67,46 +67,46 @@ More: [behind-the-behavioral](https://workflowy.com/s/behind-the-behaviora/GSHfY
 **SITUATION/TASK** - Describe the situation/task you faced and the context of the story
 
 * Answers the questions: **where** did this occur, **when** did it happen, **why** is it important?
-* Probing Questions:
-	* · Why is this important? What was the goal?
-	* · What was the initial scope of the project? What were the challenges?
-	* · What were the risks and potential consequences if nothing happened?
-* Challenge Questions:
-	* · Why did you choose this story to illustrate a xyz accomplishment?
-	* · What other stories can you think of that demonstrate…xyz?
-	* · Could you come up with an example that is more recent?
+* **Probing Questions**:
+	* Why is this important? What was the goal?
+	* What was the initial scope of the project? What were the challenges?
+	* What were the risks and potential consequences if nothing happened?
+* **Challenge Questions**:
+	* Why did you choose this story to illustrate a xyz accomplishment?
+	* What other stories can you think of that demonstrate…xyz?
+	* Could you come up with an example that is more recent?
 
 **ACTION** - What actions did you take?
 
 * Answers the questions: what did you personally own, how did you do it, who else was involved?
 * **Probing Questions**:
-	* · Deep probe functional expertise and/or assigned core competency.
-	* · Were you the key driver or project owner?
-	* · What was your biggest contribution? What unique value did you bring?
-	* · What were the most significant obstacles you faced? How did you overcome them?
+	* Deep probe functional expertise and/or assigned core competency.
+	* Were you the key driver or project owner?
+	* What was your biggest contribution? What unique value did you bring?
+	* What were the most significant obstacles you faced? How did you overcome them?
 * **Challenge Questions**:
-	* · What did you do specifically versus the team?
-	* · How did you set priorities…deal with xyz problem… or get manager buy-in?
-	* · What decisions did you challenge? Why? How did you influence the right outcome?
+	* What did you do specifically versus the team?
+	* How did you set priorities…deal with xyz problem… or get manager buy-in?
+	* What decisions did you challenge? Why? How did you influence the right outcome?
 
 **RESULTS** - How did you measure success for this project? What results did you achieve?
 
-* $ Cost savings, revenue generation
-* # Quantify to understand volume, size, scale
-* % Percentage change, year over year improvements
-* ˆ Time to market, implementation time, time savings
-* J Impact on the customer, the team
-* d Quality improvements
+* `$` Cost savings, revenue generation
+* `#` Quantify to understand volume, size, scale
+* `%` Percentage change, year over year improvements
+* `ˆ` Time to market, implementation time, time savings
+* `J` Impact on the customer, the team
+* `d` Quality improvements
 * **Probing Questions**:
-	* · Why did you choose to focus on these results? What other results were important?
-	* · You mentioned revenue, what percentage change is that year over year?
-	* · What trade-offs did you have to make to achieve this? (quality, cost, time)
-	* · I’m concerned about… (The time it took, the volume, the customer impact), tell me more…
+	* Why did you choose to focus on these results? What other results were important?
+	* You mentioned revenue, what percentage change is that year over year?
+	* What trade-offs did you have to make to achieve this? (quality, cost, time)
+	* I’m concerned about… (The time it took, the volume, the customer impact), tell me more…
 * **Challenge Questions**:
-	* · What were the lessons learned? What would you have done differently?
-	* · How would you improve the process or result today?
-	* · How would you implement this at Amazon?
-	* · How did these results compare to your actual goals? (refer back to goal stated in Situation)
+	* What were the lessons learned? What would you have done differently?
+	* How would you improve the process or result today?
+	* How would you implement this at Amazon?
+	* How did these results compare to your actual goals? (refer back to goal stated in Situation)
 
 
 Mention **"STAR"** key words to help your interviwer **follow** your topic:
