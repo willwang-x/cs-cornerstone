@@ -7,7 +7,7 @@
   <br><br>
 </h1>
 
-> Good production code is well-factored; good test code is obvious.
+> Good production code is well-factored; good test code is **obvious**.
 
 
 ## List 
