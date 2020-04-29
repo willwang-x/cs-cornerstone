@@ -69,4 +69,10 @@
 * Grammarly: 在写。
 * 1checker: 本地写作，语法修改。
 
+Anki:
 
+* [English Grammar In Use Activities](https://ankiweb.net/shared/info/715945745): 系列Anki
+
+其他：
+
+* [voscreen](https://www.voscreen.com/): 通过同义转换(paraphrase)来考察你的理解。
