@@ -17,3 +17,6 @@
 > 
 > by [白胜](https://juejin.im/pin/5be79df0e51d45597e998c1d)
 
+## Reference 
+
+- [Career advice for people with bad luck](https://app.getpocket.com/read/2959482315)
