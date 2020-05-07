@@ -22,4 +22,5 @@
 
 - [The code you take away as important as the code you write
 ](https://medium.com/@TheHosk/the-code-you-take-away-as-important-as-the-code-you-write-d844a55f9cb0): Every line of code has to be maintained. More lines of code adds to the technical debt and complexity of the whole code set.
+- [How to Comment Your Code Like a Pro: Best Practices and Good Habits](https://www.elegantthemes.com/blog/wordpress/how-to-comment-your-code-like-a-pro-best-practices-and-good-habits)
 
