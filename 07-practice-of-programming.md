@@ -17,3 +17,9 @@
 1. *UNIX编程艺术*: 模块化，清晰化，可组合，可分离等17个Unix程序设计哲学
 
 * **Clean Code**: 为之后阅读/修改代码的自己或他人减轻认知负荷
+
+## Reference 
+
+- [The code you take away as important as the code you write
+](https://medium.com/@TheHosk/the-code-you-take-away-as-important-as-the-code-you-write-d844a55f9cb0): Every line of code has to be maintained. More lines of code adds to the technical debt and complexity of the whole code set.
+
