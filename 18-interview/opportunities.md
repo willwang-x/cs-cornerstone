@@ -18,6 +18,11 @@ Refer:
 - ✅ say something more **personal**, e.g., interest, strength
 
 
+### Door
+
+- 一亩三分地：[内推](https://www.1point3acres.com/bbs/forum-198-1.html)
+- Linkedin找HR
+
 ## Thanks 
 
 - [最有效的五步推销法](http://www.ruanyifeng.com/blog/2018/11/most-effective-sales-promotion.html): 趋势，赢家和输家，未来，关键步骤，证据。
