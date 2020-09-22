@@ -23,6 +23,19 @@ Refer:
 - 一亩三分地：[内推](https://www.1point3acres.com/bbs/forum-198-1.html)
 - Linkedin找HR
 
+## 内推礼仪
+
+格式清单：(便于内推人填写信息)
+
+* First name :
+* Last Name :
+* Email :
+* Phone :
+* Address :
+* Country :
+* 简历 PDF 放在附件
+* JOB IDs：(按优先级写)  
+
 ## Thanks 
 
 - [最有效的五步推销法](http://www.ruanyifeng.com/blog/2018/11/most-effective-sales-promotion.html): 趋势，赢家和输家，未来，关键步骤，证据。
