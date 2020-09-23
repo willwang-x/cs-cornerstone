@@ -8,16 +8,31 @@
 
 ## What 
 
-- [LDOCE](https://www.wikiwand.com/en/Longman_Dictionary_of_Contemporary_English): Longman Dictionary of Contemporary English is an advanced learner's dictionary, providing definitions by using a restricted vocabulary, helping non-native English speakers to understand meanings easily. 如果智能拥有一部词典
-	- Longman Communication 9000
-	- 2000-word controlled defining vocabulary 	
-	- THESAURUS, e.g. differnece among walk, wander, stride, pace, march wade, stomp  	
-- LDOCE5 Extra 
-	- e.g. support/assist/further/facilitate development 
-- [Macmillan English Dictionary for Advanced Learners](https://www.wikiwand.com/en/Macmillan_English_Dictionary_for_Advanced_Learners) 
-	- **collocation** boxes e.g. walk along 
-	- word frequency information (7500 & 3 bands)
-	- metaphor boxes e.g. anger
+### 1. [LDOCE](https://www.wikiwand.com/en/Longman_Dictionary_of_Contemporary_English)
+
+Longman Dictionary of Contemporary English is an advanced learner's dictionary, providing definitions by using a restricted vocabulary, helping non-native English speakers to understand meanings easily. 
+
+- 如果只能拥有一部词典
+- Longman **Communication 9000**
+- **2000-word** controlled defining vocabulary 
+- **THESAURUS**, e.g. difference among walk, wander, stride, pace, march wade, stomp  	
+
+![wander](https://i.imgur.com/FZZ3oe3.png)
+
+![wander-thesaurus](https://i.imgur.com/2flAIRF.png)
+
+
+### 2. LDOCE5 Extra 
+
+- e.g. support/assist/further/facilitate development 
+- [Macmillan English Dictionary for Advanced Learners](https://www.wikiwand.com/en/
+
+
+### 3. Macmillan English Dictionary for Advanced Learners 
+
+- **collocation** boxes e.g. walk along 
+- word frequency information (7500 & 3 bands)
+- metaphor boxes e.g. anger
 
 ## Reference
 
