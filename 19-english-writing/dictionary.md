@@ -34,7 +34,12 @@ Longman Dictionary of Contemporary English is an advanced learner's dictionary, 
 - word frequency information (7500 & 3 bands)
 - metaphor boxes e.g. anger
 
+### The Little Dict
+
+![tenet-ex](https://i.imgur.com/CyXArMe.png)
+
 ## Reference
 
 - [欧路词典打磨指南](https://zhuanlan.zhihu.com/p/64925212)
 - [每个人都值得拥有几本好词典](https://zhuanlan.zhihu.com/p/20214473)
+- [词典下载](https://downloads.freemdict.com/100G_Super_Big_Collection/%E8%AF%8D%E9%A2%91/)
