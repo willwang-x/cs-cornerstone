@@ -9,7 +9,9 @@
 
 Because no one can read your mind (yet) 
 
-It's an easy way to answer questions that your audience will likely have regarding how to install and use your project and also how to collaborate with you.
+* A nice README is a good way to help people **engage** in the project as well. 
+	* A project with nice README and screenshots will get the **attention** of users better since it’s a direct way to explain why this project matters, and why people should use and contribute to the project. 
+* It's an **easy** way to **answer** questions that your audience will likely have regarding how to install and use your project and also how to collaborate with you.
 
 
 ## What 
