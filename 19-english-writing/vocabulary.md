@@ -36,7 +36,14 @@ source: Nattinger & DeCarrico（1992）
 
 - [Lexical Bundles](https://academic.oup.com/applij/article-abstract/25/3/371/179465?redirectedFrom=fulltext)
 
+### 词汇：
 
+* **内核**：1368/介词
+* **基础**：四六级，托福
+* **词根**：《Word Power Made Easy》
+* **学科**: 新托福iBT词汇分类突破
+* **学术**: GRE词汇
+* **话题**：英语在用系列，《美国人天天在用的15000单词》(以「方位」记忆 「交流编码」)
 
 ## More 
 
