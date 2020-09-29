@@ -10,11 +10,6 @@
 * Grammer
 
 
-## Books 
-
-
-* [1368个单词就够了](https://book.douban.com/subject/25981535/): 英语**词汇**学习的最少必要知识。[读书笔记](https://www.douban.com/people/lanluotiankong/reviews)。
-
 
 ## Lessons 
 
