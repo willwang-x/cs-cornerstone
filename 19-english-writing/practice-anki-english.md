@@ -3,7 +3,7 @@
 
 ## Why?
 
-- 最好的学习方式是进行大量原版阅读
+- 最好的学习方式是大量+重复。大量阅读，重复单元。
 
 ## What
 
@@ -52,6 +52,10 @@ Take [Sentence items](http://www.antimoon.com/how/usingsm-makeitems-sentence.htm
 	- Hard: understood but a little incorrect. 
 	- Again: "Almost"
 
+#### More
+
+* 不同类型词汇的记忆方式不同？如具体名词和抽象名词
+* 卡片的类型有哪些？	 
 
 ## Reference 
 
