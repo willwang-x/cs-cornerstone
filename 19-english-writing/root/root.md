@@ -77,3 +77,4 @@ source: [wiki](https://www.wikiwand.com/en/English_language#/Word_origins)
 - [Etymology and surprising origins of words](https://www.youtube.com/watch?v=cSAW4FSA8Dg)
 - [A brief history of plural word...s - John McWhorter](https://www.youtube.com/watch?v=_gwJHuEa9Jc)
 - [Where did English come from? - Claire Bowern](https://www.youtube.com/watch?v=YEaSxhcns7Y)
+- https://myvocabulary.com/dir-root-root_master
