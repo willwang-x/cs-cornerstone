@@ -6,8 +6,8 @@
 
 |key(IPA)|how|what|point|comments|
 |:--|:--|:--|:--|:--|
-|[iː]|**一**二三| [e] [ea] [ie] [ei] [ee] <br><br> **ev**il, t**ea**, y**ie**ld, s**ei**ze, agr**ee** |||
-|[i]| <img src="https://i.imgur.com/9qNxLQp.jpg" alt="ɪ in chinese" width="200"/>|[y] [e] [i] [ie] [ey] [ea] [ee] [ois] [ae] [is] <br> <br> an**y**, recip**e**, chill**i**, cook**ie**, mon**ey**, guin**ea**, coff**ee**, cham**ois**, larv**ae**, prec**is** |
+|[iː]|**一**二三| [e] [ea] [ie] [ei] [ee] <br><br> **ev**il, t**ea**, y**ie**ld, s**ei**ze, agr**ee** ||ee|
+|[i] / ɪ| <img src="https://i.imgur.com/9qNxLQp.jpg" alt="ɪ in chinese" width="200"/>|[y] [e] [i] [ie] [ey] [ea] [ee] [ois] [ae] [is] <br> <br> an**y**, recip**e**, chill**i**, cook**ie**, mon**ey**, guin**ea**, coff**ee**, cham**ois**, larv**ae**, prec**is** |
 |[eɪ]|eɪ类似中文的“诶”，走一个从e到i的过程。|I am **a**ble to s**ay** my **ei**ght **ai**m.||
 |[ɛ]||s**e**cond br**ea**d||
 |[[æ]](https://www.youtube.com/watch?v=mynucZiy-Ug)| the /æ/ is a very **open** vowel sound, so your jaw should be very **low** and your tongue should be very **flat**.| [a] [al] [au]<br><br> c**a**t h**al**f l**au**gh||The /æ/ is specific to English, as the majority of other languages don't have this sound. That's the reason why many people distort the /æ/ or replace it with other vowels. |
