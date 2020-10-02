@@ -25,6 +25,8 @@
 
 * [Grokking the Object Oriented Design Interview](https://www.educative.io/courses/grokking-the-object-oriented-design-interview?affiliate_id=5082902844932096&utm_source=google&utm_medium=cpc&utm_campaign=CbC&gclid=Cj0KCQjwtsv7BRCmARIsANu-CQeDAX17G2bo9G2JIRzkc7SPRtz_O6nU4nLdGrEhUVD2X8ACIwxLLLQaAvP7EALw_wcB)
 
+## More 
 
+* [List of object-oriented programming terms](https://www.wikiwand.com/en/Index_of_object-oriented_programming_articles)
 
 
