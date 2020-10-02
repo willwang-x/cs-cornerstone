@@ -16,7 +16,7 @@
 
 ### 1. 最好的卡片形式是怎样的？
 
-如果Hashmap {key: val}
+如 Hashmap {key: val}
 
 - 一眼可懂: 最少知识原则。
 - 一念可想: 会与不会，瞬间抉择。
@@ -24,7 +24,7 @@
 [Definition-word items](http://www.antimoon.com/how/usingsm-makeitems-defword.htm): You read a definition. Then you give a word which fits the definition. An example item:
 
 - Q: If you think that a person is uneducated and stupid because they come from the country, you call them a ________.
-- A: a hick [hik 
+- A: a hick [hik]
 	- He is an obnoxious hick.
 	- New Yorkers have a horrid way of making people feel like hicks.
 
