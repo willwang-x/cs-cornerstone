@@ -12,7 +12,7 @@
 
 ## How
 
-* 听：一集TED/Episode/voscreen，看自己能听懂多少
+* 听：一集TED/Episode/voscreen/tech-talk，看自己能听懂多少
 * 说：使用Siri，看是否能够准确识别你的发音
 * 读：读一篇pocket中的文章，看与其估计的阅读时间的时间差
 * 写：？
