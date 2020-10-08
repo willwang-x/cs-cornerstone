@@ -1,5 +1,6 @@
 # / i / as in "be" 
 
+
 |key|how|what|point|comments|
 |:--|:--|:--|:--|:--|
 |[iː] [ee]|**一**二三| [e] [ea] [ie] [ei] [ee] <br><br> **ev**il, t**ea**, y**ie**ld, s**ei**ze, agr**ee** |||
@@ -13,6 +14,9 @@
 * "each," "see," "key" or "ski." 
 
 ## What
+
+![most common spelling](https://i.imgur.com/kUCQwfB.png)
+
 
 The **/i/** is the third most frequently used vowel sound in American English, so pronouncing it correctly is important for your American accent.   
 
