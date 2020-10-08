@@ -10,7 +10,7 @@
 
 * 如，「解」，这个字分成刀、牛、角，把刀放在牛角后宰牛，就是解剖，分解呀…… 好认好记，字义豁然。
 * 如，invisible = in-（不）+vis（看）+-ible（可……的），要是懂得词根「**vis**」，含义是“看”，那么“不可见的”也就跃然纸上了。再加归纳，visit（参观），vision（视觉），visual（视觉的），visage（外表），previse（预见），television（电视），supervise（监视），revise（校对），revisionism（修正主义）等等同族词，意思就显而易见。
-* 如，从词根角度理解内卷化 [Involution](https://www.ruanyifeng.com/blog/2020/09/weekly-issue-126.html)。volute，拉丁语原意是"滚动"。evolution的前缀是ex-（"向外的"），向外滚动就是进化；revolution的前缀是re-（"再次的"），再次滚动、颠覆现状就是革命；involution的前缀是in-（"向内的"），向内滚动当然就是内卷了。
+* 如，从词根角度理解内卷化 [Involution](https://www.ruanyifeng.com/blog/2020/09/weekly-issue-126.html)。**volute**，拉丁语原意是"滚动"。evolution的前缀是ex-（"向外的"），向外滚动就是进化；revolution的前缀是re-（"再次的"），再次滚动、颠覆现状就是革命；**involution**的前缀是in-（"向内的"），向内滚动当然就是内卷了。
 
 再总结一下why:
 
