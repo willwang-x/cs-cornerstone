@@ -14,6 +14,16 @@ The software quality metrics of coupling and cohesion were invented by Larry Con
 
 In software engineering, **coupling** is the degree of interdependence between software modules; **a measure of how closely connected two routines or modules are**; the strength of the relationships between modules.
 
+## How 
+
+<img src="https://i.imgur.com/jXHLoPs.jpg" alt="decoupling" width="150"/> 
+
+
+* 你买了个台灯，装的白炽灯，后来你把白炽灯拧下来换了个**欧普**的螺旋状节能灯，后来又换了个**飞利浦**的管型节能灯。这就是灯罩和灯解耦了。程序中的低耦合是指各模块相对独立，对某个**模块内部的修改**不影响**其他模块**。
+
+
+
+
 ## Q&A
 
 * How many types of coupling?
