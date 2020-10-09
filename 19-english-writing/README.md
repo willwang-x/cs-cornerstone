@@ -1,20 +1,23 @@
 # English 
 
 
-## Base 
+## Why
 
-* [Pronounce](https://workflowy.com/s/BZDH.3WnFc2lF9o)
-* Vocabulary
-* Set Phrase(idioms)
-* Sentence 
-* Grammer
+* Work required
+* Good things in English world，e.g. wikiwand
 
 
+## How  
 
-## Lessons 
+> If you wanna learn a language, you need give life to it.
 
-* [如何用「回音法」學好英文口說 | 史嘉琳 Karen Chung | TEDxNTUST](https://www.youtube.com/watch?v=sQEWEPIHLzQ): Listen, **Echo**, Repeat 
-* [想学会一个语言？就像玩电子游戏般地去说出来](https://www.youtube.com/watch?v=mwpdffpixBY): English is just **a tool** to use to **get a result** instead of an art to be mastered. Focus on the **clarity** instead of correctness.
-* [A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English): 程序员视角的英语学习法
-* [跟500强工程师学职场商务英语](https://study.163.com/course/introduction.htm?courseId=1004495007#/courseDetail?tab=1): 外企工作使用英语
-* [手把手教你通过美剧学英语（课程）](https://zhuanlan.zhihu.com/p/27222124)：主要通过美剧来学习工作英语。
+* 打牢**基础**：掌握**有限**的**音标**发音(听)，**语法**规则(读)
+* **精读**小词：语块无穷，时间有限，所以要学会用少量词就能做大量表达
+* 在**用**中学：大量**输入**(**阅读**&**视频**) -> **识别疑惑**，**查找解答** -> **复习**知识点
+* **优化**工具：对每一个**加粗**，寻找合适的材料和工具，并持续优化，目标让注意力回归到「用」且有效进步，如 复习交给Anki
+
+
+
+## What
+
+* **[小词](https://www.zhihu.com/question/24088274/answer/26899813)**：先搞定词频最高300小词，弄懂每个词的种种习语，用法，例句并记住。
