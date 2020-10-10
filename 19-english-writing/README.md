@@ -20,4 +20,6 @@
 
 ## What
 
-* **[小词](https://www.zhihu.com/question/24088274/answer/26899813)**：先搞定词频最高300小词，弄懂每个词的种种习语，用法，例句并记住。
+* **[小词](https://www.zhihu.com/question/24088274/answer/26899813)**：先搞定词频最高300小词，弄懂每个词的种种习语，用法，例句并记住。or [OGDEN's BASIC ENGLISH](http://ogden.basic-english.org/)
+* OGDEN's BASIC ENGLISH: 根据研究，**850个**最常用的英语单词，可以表达**90%的英语概念**。这些基本单词就称为"基础英语"。该网站收集基础英语的研究和学习资料。
+
