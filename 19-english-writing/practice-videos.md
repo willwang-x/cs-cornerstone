@@ -10,16 +10,15 @@
 
 ### Ideal
 
-* 产生疑问：无字幕观看视频
-* 解答疑惑：
-	* 通过程序生成笔记：{xxx.mp4, xxx.src} → 程序 → {notes.md}
+* 产生疑问：**无字幕**观看视频
+* 解答疑问：{xxx.mp4, xxx.src} → 程序 → {notes.md}
 * 复习解答：讲知识点加入Anki复习。
 
 ### Reality
 
 * 产生疑问：无字幕观看视频
-* 解答疑惑：利用[Word Discoverer](https://chrome.google.com/webstore/detail/word-discoverer-expand-yo/noncaeikjgpbdeoocblijjgegnobogib) 对字幕扫描
-* 复习疑惑：利用[ODH插件](https://github.com/ninja33/ODH)将词汇加入Anki.
+* 解答疑问：1）利用[Word Discoverer](https://chrome.google.com/webstore/detail/word-discoverer-expand-yo/noncaeikjgpbdeoocblijjgegnobogib) 对字幕扫描。 2）分解知识点 by quizlet
+* 复习解答：加入Anki by [ODH](https://github.com/ninja33/ODH) or 手动
 
 
 ## What
@@ -27,7 +26,8 @@
 * **视频**：生活需求 x 内容简短 x 难度合适，如 职场 x 20mins x 90%听懂 = 摩登家庭
 * **notes.md**: 词汇概括 + 截图 + 知识点
 * **知识点**：定义为[lexical_item](https://www.wikiwand.com/en/Lexical_item)，可理解为「可学习单元」，如发音，习语，句型。
-
+* **quizlet**: {xxx.src} → quizlet →  {card, ... , card} e.g. [Modern.Family](https://quizlet.com/535264808/modernfamilys11e01-flash-cards/?new)
+ 
 
 ## Todo
 
