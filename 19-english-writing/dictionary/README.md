@@ -29,3 +29,4 @@
 - [欧路词典打磨指南](https://zhuanlan.zhihu.com/p/64925212)
 - [每个人都值得拥有几本好词典](https://zhuanlan.zhihu.com/p/20214473)
 - [词典下载](https://downloads.freemdict.com/100G_Super_Big_Collection/%E8%AF%8D%E9%A2%91/)
+- [You’re probably using the wrong dictionary (2014) ](https://news.ycombinator.com/item?id=19763435): 介绍了为什么韦氏词典好
