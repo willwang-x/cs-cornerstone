@@ -1,9 +1,15 @@
-# Practice: 如何通过视频学习英语？
+<h1 align="center">
+<br>
+  <img src="https://i.imgur.com/ssBehdB.png" alt="practice exmaple from modern family" width=200">
+  <br><br>
+  Practice: 如何通过视频学习英语？  
+  <br><br>
+</h1>
 
 
 ## Why
 
-* 视觉场景化的英语材料
+* 理解视觉化的学习材料
 * 作为听力的测试，因为表达的第一步是听懂
 
 ## How 
@@ -12,7 +18,7 @@
 
 * 产生疑问：**无字幕**观看视频
 * 解答疑问：{xxx.mp4, xxx.src} → 程序 → {notes.md}
-* 复习解答：讲知识点加入Anki复习。
+* 复习解答：将知识点加入Anki复习。
 
 ### Reality
 
