@@ -23,7 +23,7 @@
 
 ## What
 
-* **视频**：生活需求 x 内容简短 x 难度合适，如 职场 x 20mins x 90%听懂 = 摩登家庭
+* **视频**：生活需求 x 内容简短 x 难度合适，如 职场 x 20mins x 90%听懂 = 摩登家庭。视频来源：电影，TED，youtube。最好有中英字幕，便于对答案。
 * **notes.md**: 词汇概括 + 截图 + 知识点
 * **知识点**：定义为[lexical_item](https://www.wikiwand.com/en/Lexical_item)，可理解为「可学习单元」，如发音，习语，句型。
 * **quizlet**: {xxx.src} → quizlet →  {card, ... , card} e.g. [Modern.Family](https://quizlet.com/535264808/modernfamilys11e01-flash-cards/?new)
