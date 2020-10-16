@@ -23,7 +23,13 @@
 ### Reality
 
 * 产生疑问：无字幕观看视频
-* 解答疑问：1）利用[Word Discoverer](https://chrome.google.com/webstore/detail/word-discoverer-expand-yo/noncaeikjgpbdeoocblijjgegnobogib) 对字幕扫描。 2）分解知识点 by quizlet
+* 解答疑问：
+	* 1）利用[Word Discoverer](https://chrome.google.com/webstore/detail/word-discoverer-expand-yo/noncaeikjgpbdeoocblijjgegnobogib) 对字幕扫描。 
+	* <del> 2）分解知识点 by quizlet </del> (因为还是慢)
+	* 3) {video.mp4, xxx.srt} -> ffmpeg -> {screenshots}
+		* 遍历截图，同时删除不包含知识点的截图
+		* {xxx.srt, [screenshot.png]} -> anki小程序 -> {anki card: 文字，截图}
+		* 在Anki中遍历，使用cloze工具
 * 复习解答：加入Anki by [ODH](https://github.com/ninja33/ODH) or 手动
 
 
