@@ -33,8 +33,10 @@
 * **notes.md**: 词汇概括 + 截图 + 知识点
 * **知识点**：定义为[lexical_item](https://www.wikiwand.com/en/Lexical_item)，可理解为「可学习单元」，如发音，习语，句型。
 * **quizlet**: {xxx.src} → quizlet →  {card, ... , card} e.g. [Modern.Family](https://quizlet.com/535264808/modernfamilys11e01-flash-cards/?new)
-* 小程序: {xxx.mp4, xxx.src} -> 小程序 -> {screenshot.png for each line}
- 
+* **小程序**: {xxx.mp4, xxx.src} -> 小程序 -> {screenshot.png for each line}
+* [getsub](https://github.com/gyh1621/GetSubtitles): 一步下载字幕
+	* `getsub {path} -q -s` 
+* **词库过滤器**：{xxx.src, new.txt} -> 词库过滤器 -> {all-point.src}
 
 ## Todo
 
