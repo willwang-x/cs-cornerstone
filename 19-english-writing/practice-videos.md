@@ -22,12 +22,14 @@
 
 ### Reality
 
+> watching -> {**processing**...} -> review points in anki
+
 * 产生疑问：无字幕观看视频
 * 解答疑问：
 	* 1）利用[Word Discoverer](https://chrome.google.com/webstore/detail/word-discoverer-expand-yo/noncaeikjgpbdeoocblijjgegnobogib) 对字幕扫描。 
 	* <del> 2）分解知识点 by quizlet </del> (因为还是慢)
 	* 3) {video.mp4, xxx.srt} -> ffmpeg -> {screenshots}
-		* 遍历截图，同时删除不包含知识点的截图
+		* **遍历**截图，同时**删除**不包含知识点的截图
 		* {xxx.srt, [screenshot.png]} -> anki小程序 -> {anki card: 文字，截图}
 		* 在Anki中遍历，使用cloze工具
 * 复习解答：加入Anki by [ODH](https://github.com/ninja33/ODH) or 手动
@@ -35,6 +37,7 @@
 
 ## What
 
+* **processing**: 一个将看完的**视频**变成Anki中**知识点**的**流程**。
 * **视频**：生活需求 x 内容简短 x 难度合适，如 职场 x 20mins x 90%听懂 = 摩登家庭。视频来源：电影，TED，youtube。最好有中英字幕，便于对答案。
 * **notes.md**: 词汇概括 + 截图 + 知识点
 * **知识点**：定义为[lexical_item](https://www.wikiwand.com/en/Lexical_item)，可理解为「可学习单元」，如发音，习语，句型。
@@ -51,3 +54,21 @@
 * 理解[Word Discoverer](https://chrome.google.com/webstore/detail/word-discoverer-expand-yo/noncaeikjgpbdeoocblijjgegnobogib)，加入以上的知识点数据库，作为暂时使用工具。
 * 写一个程序：{xxx.mp4, xxx.src, lexical_item.txt} → 程序 → {notes.md}
 * 优化notes.md的外观。
+
+
+## Q&A 
+
+**How to batch import text with images into Anki?**
+
+* **Tools**: python, imgur, [Anki Markdown Notes](https://ankiweb.net/shared/info/2141874715#:~:text=Starting%20from%20scratch%20Create%20a,Markdown%20files%20is%20shown%20below.)
+* **Goal**: {xxx.srt, images} -> **tools** ->  {xxx.md} 
+* **Ideas**: to upload image to imgur and get url link
+* hwo to make it a cloze card?
+
+```
+3
+- 你得去周旋\N- 周旋?
+- You should mingle.\N- Mingle?
+- https://i.imgur.com/eMuVMka.png
+```
+
