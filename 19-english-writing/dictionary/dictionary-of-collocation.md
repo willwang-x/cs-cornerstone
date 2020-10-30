@@ -1,7 +1,7 @@
 <h1 align="center">
 <br>
 	<a href="https://www.macmillandictionary.com/collocations/british/productivity#productivity__1">
-  <img src="https://i.imgur.com/MsbNEgt.png" alt="Macmillan Collocations Dictionary - productivity" width="42%"/> 
+  <img src="https://i.imgur.com/xXaSAQC.png" alt="Macmillan Collocations Dictionary - reply" width="42%"/> 
   </a>
   <br><br>
 Dictionary of Collocation
