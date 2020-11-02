@@ -1,9 +1,13 @@
-# English grammar 
+<h1 align="center">
+<br>
+	<a href="https://www.wikiwand.com/en/English_grammar">
+	<img src="https://i.imgur.com/DEbR8NY.png" alt="English grammar" width="42%"/>
+  </a>
+  <br><br>
+English grammar 
+  <br><br>
+</h1>
 
-
-<center>
-<img src="https://i.imgur.com/DEbR8NY.png" alt="markdown" width="150"/>
-</center>
 
 > English grammar is the **way** in which meanings are **encoded** into wordings in the English language. This includes the structure of **words**, **phrases**, **clauses**, **sentences**, and the **structure** of whole texts. [[wiki](https://www.wikiwand.com/en/English_grammar)]
 
