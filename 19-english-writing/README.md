@@ -24,4 +24,5 @@
 * [Basic English](https://www.wikiwand.com/en/Basic_English): 根据研究，**850个**最常用的英语单词，可以表达**90%的英语概念**。这些基本单词就称为"基础英语"。该网站收集基础英语的研究和学习资料。
 * **阅读工具**：[word-discoverer](https://github.com/mechatroner/word-discoverer) -> [ODH](https://github.com/ninja33/ODH) -> Anki
 * **视频工具**：[LLN](https://languagelearningwithnetflix.com/) -> Anki
+* [语块](https://www.wikiwand.com/en/Lexical_item)：a lexical item is a single word, a part of a word, or a chain of words that forms the basic elements of a language's lexicon (≈ vocabulary).
 
