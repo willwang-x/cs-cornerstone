@@ -17,8 +17,8 @@
 * Brewer's Dictionary of Phrase and Fable
 * Canadian Oxford Dictionary
 * Century Dictionary
-* Chambers Dictionary
-* Collins English Dictionary
+* [Chambers Dictionary](https://www.wikiwand.com/en/Chambers_Dictionary)
+* [Collins English Dictionary](https://www.wikiwand.com/en/Collins_English_Dictionary)
 * Concise Oxford English Dictionary
 * Longman Dictionary of Contemporary English / Longman
 * Macmillan Dictionary
@@ -56,9 +56,9 @@ The following is a concise list of online English dictionaries whose definitions
 	* Oxford Thesaurus of English; 
 	* Oxford American Writer's Thesaurus
 
-Advanced learner's dictionaries
+##### Advanced learner's dictionaries
 
-* Oxford Advanced Learner's Dictionary
+* [Oxford Advanced Learner's Dictionary](https://www.wikiwand.com/en/Oxford_Advanced_Learner%27s_Dictionary)
 * Cambridge Dictionaries Online
 * Longman Dictionary of Contemporary English
 * Macmillan English Dictionary for Advanced Learners
@@ -74,6 +74,21 @@ Advanced learner's dictionaries
 * Wordnik
 * **Wordweb**: free and premium online English thesaurus and dictionary for Windows
 
+### 4. Other
+
+> 有些词典没有wiki主页，于是用了豆瓣，再没有就用了books.google
+
+* [最新英汉百科图解大词典](https://book.douban.com/subject/26754031/)
+* [Oxford Picture Dictionary](https://book.douban.com/subject/3914998/)
+* [Heinle's Newbury House Dictionary of American English](https://book.douban.com/subject/3527159/): An Essential Reference for Learners of American English and Culture
+* [Longman Active Study Dictionary](https://books.google.com/books/about/Longman_Active_Study_Dictionary.html?id=nEj8ug_9jIkC): 2010
+	* 100,000 words, phrases and meanings, including the Academic Word List
+	* 20,000 Collocations show typical word combinations
+	* Clear definitions written using only 2000 common words
+* [Good Word Guide](https://book.douban.com/subject/4368377/)
+* [Webster's New World Dictionary](https://www.wikiwand.com/en/Webster%27s_New_World_Dictionary)
+* [Oxford Living Dictionaries](https://english.meta.stackexchange.com/questions/13240/rip-oxford-living-dictionaries)
+ 
 
 ## More 
 
