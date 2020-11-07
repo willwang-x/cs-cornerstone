@@ -11,11 +11,23 @@ Dictionary of frequency
 
 ## Why 
 
-* 词汇无穷，时间有限，优先级就很重要
+词汇无穷，时间有限，优先级就很重要。我的信息需求是：
+
+* 词频
+* 词汇含义比例
+* 单词词性比例 
 
 ## What
 
-1. 《The Little Dict》 <br> <img src="https://i.imgur.com/CyXArMe.png" alt="The Little Dict - tenet" width="150"/>
+1. 《The Little Dict》 <br> <img src="https://i.imgur.com/RGVUKOJ.png" alt="The Little Dict - reply" width="150"/>
+1. 《**COCA Frequency 6000**》 <br> <img src="https://i.imgur.com/hCUFbHa.png" alt="COCA Frequency 6000 - reply" width="150"/>
+1. 《**单词释义比例-带词性**》 <br> <img src="https://i.imgur.com/MU6t3xr.png" alt="单词释义比例-带词性 - reply" width="150"/>
+1. 《词频词典》 <br> <img src="https://i.imgur.com/tJ8h5bq.png" alt="词频词典 - reply" width="150"/>
+1. 《COCA Frequency List》 <br> <img src="https://i.imgur.com/ycCvSLC.png" alt="COCA Frequency List - reply" width="150"/>
+1. 《单词释义比例》 <br> <img src="https://i.imgur.com/LDH0dcC.png" alt="单词释义比例 - reply" width="150"/>
+1. 《Sound + ANC + BNC + COCA》 <br> <img src="https://i.imgur.com/fpqP1rN.png" alt="Sound + ANC + BNC + COCA - reply" width="150"/>
+1. 《BNC+ANC+COCA词频词典》 <br> <img src="https://i.imgur.com/Hs5GFmB.png" alt="BNC+ANC+COCA - reply" width="150"/>
+1. 《发音词频词典》 <br> <img src="https://i.imgur.com/3lRQySB.png" alt="单词释义比例 - reply" width="150"/>
 
 
 Term：
