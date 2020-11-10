@@ -38,6 +38,8 @@ Ex.
 *  《English Etymology》 <br>  <img src="https://i.imgur.com/OuWNaWK.png" alt="profound" width="150"/>
 *  《词根记忆词典-12060》 <br>  <img src="https://i.imgur.com/raJnRye.png" alt="profound" width="150"/>
 *  《优词词根-18677》 <br>  <img src="https://i.imgur.com/elxv4Q2.png" alt="profound" width="150"/>
+*  《新东方词根词缀词典-12120》 <br>  <img src="https://i.imgur.com/v4pEuuG.png" alt="profound" width="150"/>
+
 
 ## How
 
