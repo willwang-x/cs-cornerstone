@@ -1,6 +1,14 @@
-# Collins COBUILD Advanced Learner's Dictionary 
+<h1 align="center">
+<br>
+	<a href="https://www.wikiwand.com/en/Collins_COBUILD_Advanced_Dictionary">
+  <img src="https://i.imgur.com/YihS9r6.png" alt="COBUILD learner, 9th edition, 2018, en-en - count on" width=42%">
+  </a>
+  <br><br>
+Collins COBUILD Advanced Learner's Dictionary 
+  <br><br>
+</h1>
 
-![柯林斯高阶英汉双解学习词典-hail-example]()
+
 
 > a dictionary that distinguished itself by providing definitions in full sentences rather than excerpted phrases. [[wiki](https://www.wikiwand.com/en/Collins_COBUILD_Advanced_Dictionary)]
 
@@ -33,7 +41,7 @@ History:
 * **6th edition, 2008** <br> <img src="https://i.imgur.com/veGImEE.png" alt="COBUILD learner, 6th edition, 2008, ch-en - count on" width="150"/> <img src="https://i.imgur.com/ZyeYcTh.png" alt="COBUILD learner, 6th edition, 2008, en-en - count on" width="150"/>  
 * 7th edition, 2012
 * **8th edition, 2014**<br> <img src="https://i.imgur.com/SaQQ5HO.png" alt="COBUILD learner, 8th edition, 2014, en-en - count on" width="150"/>
-* NEW – 9th edition, 2018
+* **NEW – 9th edition, 2018**<br> <img src="https://i.imgur.com/YihS9r6.png" alt="COBUILD learner, 9th edition, 2018, en-en - count on" width="150"/>
 
 
 
