@@ -74,6 +74,7 @@ A: 柯林斯词典有一个高达2.5亿的语料库，从语料库中筛选出�
 A: Here are some:
 
 * **weave**: **If** you **weave** details into a story or design, you include them, **so that** they are closely linked together or become an important part of the story or design. 
+* **culprit**: **When you are talking about** a crime or something wrong that has been done, **you can refer to** the person who did it as the **culprit** . 
 
 ## More 
 
