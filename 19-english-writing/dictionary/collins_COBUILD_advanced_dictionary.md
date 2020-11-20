@@ -69,6 +69,11 @@ A: 柯林斯词典有一个高达2.5亿的语料库，从语料库中筛选出�
 
 根据语料库的统计结果，掌握五级四级的前1720詞，就可以读通英語资料的**75%**，掌握五、四、三、二級的6500詞，就可以读通英語资料的**90%**，掌握这14600詞，就可以读懂任何英語资料的**95%**。
 
+#### Q: How does the dict explain the vocabulary?
+
+A: Here are some:
+
+* **weave**: **If** you **weave** details into a story or design, you include them, **so that** they are closely linked together or become an important part of the story or design. 
 
 ## More 
 
