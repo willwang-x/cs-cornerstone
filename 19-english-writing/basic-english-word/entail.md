@@ -1,3 +1,5 @@
+# Entail
+
 To entail is **to involve**. A job at a movie theater might entail sweeping popcorn off the floor, probably because watching a movie entails eating popcorn in the dark. It’s a small price to pay!
 
 The word entail, which comes from Latin, is connected to **the idea of preconditions**. If you want something, you better **figure out what it entails**. 
