@@ -73,9 +73,45 @@ A: 柯林斯词典有一个高达2.5亿的语料库，从语料库中筛选出�
 
 A: Here are some:
 
-* **weave**: **If** you **weave** details into a story or design, you include them, **so that** they are closely linked together or become an important part of the story or design. 
-* **culprit**: **When you are talking about** a crime or something wrong that has been done, **you can refer to** the person who did it as the **culprit** . 
+* A **`benefactor`** is **a person who** helps a person or organization **by** giving them money. 
+* An **`eyewitness`** is **a person who** was present at an event and can therefore describe it, **for example** in a law court. 
+* **If a situation** **`unfolds`**, **it** develops and becomes known or understood.
+* If you say/describe/feel/have/verb, you disapprove/like/mean becuase/so that...
+	* **If you say that someone** is **`exploiting`** a situation, **you disapprove of them because they** are using it to gain an advantage for themselves, **rather than** trying to help other people or do what is right.
+	* **If you describe something or someone as** **`funky`**, **you like them because they are** unconventional or unusual. 
+	* **If you describe something as** **`corny`**, **you mean that** it is obvious or sentimental and not at all original. 
+	* **If you feel** **`groggy`**, **you feel** weak and rather ill. 
+	* **If you have a** **`grievance`** **about something that** has happened or been done, **you believe that it** was unfair. 
+	* **If you** **`compress`** **something such as** a piece of writing or a description, **you make it** shorter. 
+	* **If you** **`emulate`** **something or someone**, **you** imitate them **because** you admire them a great deal. 
+	* **If you** **`delude`** **yourself**, **you let yourself believe that** something is true, **even though** it is not true.
+	* **If you** **`weave`** details into a story or design, you include them, **so that** they are closely linked together or become an important part of the story or design. 
+* **If people** **`promote`** **something**, **they** help or encourage it to happen, increase, or spread. 
+* **If someone is** **`angling`** for **something**, **they are trying to** get it without asking for it directly. 
+* **If something is** **`showcased`**, **it is** displayed or presented to its best advantage. 
+* **Something that is** **`implicit`** is expressed in an indirect way. 
+* **Something that is** **`striking`** **is** very noticeable or unusual. 
+* **To** **`cast`** **something or someone somewhere means to** throw them there. 
+* **You use** **`profound`** **to emphasize that something is** very great or intense. 
+* **You use** **`surrender`** **to refer to someone's** attitude or behaviour **when** they lose the will to resist their feelings or the demands of other people. 
+* **You can use** **`on top or on top of`** **to indicate that** a particular problem exists in addition to a number of other problems. 
+* **When you are talking about** a crime or something wrong that has been done, **you can refer to** the person who did it as the **`culprit`** . 
+* **`nasal`** **is used to describe things relating to** the nose and the functions it performs. 
+* **`fright`** is a sudden feeling of fear, **especially** the fear that you feel when something unpleasant surprises you. 
+* **`compliance`** **with something**, **for example** a law, treaty, or agreement **means** doing what you are required or expected to do. 
+
+
+#### Q: How dictionaries people work with the dict?
+
+A: [worksheet](https://collins.co.uk/pages/elt-cobuild-reference-cobuild-worksheets-resources)
+
+#### Q: How do you think of the dict?
+
+A: [Review of the Collins COBUILD Advanced Learner’s English Dictionary](http://www.antimoon.com/how/cobuild-review.htm)
+
 
 ## More 
 
 * [市面上的英语词典那么多，选择哪一本最适合自己？](https://www.zhihu.com/question/20961302)
+* [An Analysis of the Collins COB UILD English
+Dictionary, New Edition(2019)](https://globalex.link/wp-content/uploads/2019/08/Lexicon-27_002.pdf)
