@@ -89,8 +89,9 @@ A: Here are some:
 * **If people** **`promote`** **something**, **they** help or encourage it to happen, increase, or spread. 
 * **If someone is** **`angling`** for **something**, **they are trying to** get it without asking for it directly. 
 * **If something is** **`showcased`**, **it is** displayed or presented to its best advantage. 
-* **Something that is** **`implicit`** is expressed in an indirect way. 
-* **Something that is** **`striking`** **is** very noticeable or unusual. 
+* Something that is ... is ...
+	* **Something that is** **`implicit`** is expressed in an indirect way. 
+	* **Something that is** **`striking`** **is** very noticeable or unusual. 
 * **To** **`cast`** **something or someone somewhere means to** throw them there. 
 * **You use** **`profound`** **to emphasize that something is** very great or intense. 
 * **You use** **`surrender`** **to refer to someone's** attitude or behaviour **when** they lose the will to resist their feelings or the demands of other people. 
