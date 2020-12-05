@@ -76,7 +76,7 @@ A: Here are some:
 * A **`benefactor`** is **a person who** helps a person or organization **by** giving them money. 
 * An **`eyewitness`** is **a person who** was present at an event and can therefore describe it, **for example** in a law court. 
 * **If a situation** **`unfolds`**, **it** develops and becomes known or understood.
-* If you say/describe/feel/have/verb, you disapprove/like/mean becuase/so that...
+* If you (cannnot?) say/describe/feel/have/verb, you disapprove/like/mean becuase/so that...
 	* **If you say that someone** is **`exploiting`** a situation, **you disapprove of them because they** are using it to gain an advantage for themselves, **rather than** trying to help other people or do what is right.
 	* **If you describe something or someone as** **`funky`**, **you like them because they are** unconventional or unusual. 
 	* **If you describe something as** **`corny`**, **you mean that** it is obvious or sentimental and not at all original. 
@@ -86,6 +86,7 @@ A: Here are some:
 	* **If you** **`emulate`** **something or someone**, **you** imitate them **because** you admire them a great deal. 
 	* **If you** **`delude`** **yourself**, **you let yourself believe that** something is true, **even though** it is not true.
 	* **If you** **`weave`** details into a story or design, you include them, **so that** they are closely linked together or become an important part of the story or design. 
+	* **If you cannot** conceive of something, **you cannot** imagine it or believe it.
 * **If people** **`promote`** **something**, **they** help or encourage it to happen, increase, or spread. 
 * **If someone is** **`angling`** for **something**, **they are trying to** get it without asking for it directly. 
 * **If something is** **`showcased`**, **it is** displayed or presented to its best advantage. 
